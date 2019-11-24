@@ -1,4 +1,4 @@
-# IPC-SahredMemory-in-C
+# IPC Sahred Memory Client-Server
 Shared memory is a concept where two or more process can access the common memory.
 
 # Output
